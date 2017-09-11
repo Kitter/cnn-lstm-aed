@@ -1,0 +1,93 @@
+
+
+Clip20
+cam1 pos:  1873  neg:  154
+cam2 pos:  650  neg:  289
+cam3 pos:  11425  neg:  90
+cam4 pos:  2192  neg:  539
+cam5 pos:  1115  neg:  0
+cam6 pos:  4349  neg:  287
+
+
+Clip30
+cam1 pos:  1813  neg:  144
+cam2 pos:  630  neg:  279
+cam3 pos:  11170  neg:  80
+cam4 pos:  2122  neg:  511
+cam5 pos:  970  neg:  0
+cam6 pos:  4199  neg:  267
+
+
+HYPER_PARAMS(cnn_ver=16, clip_n=15, vlad_k=64, pca_k=512)
+
+cam2
+frame 3303 has no bbox
+frame 3304 has no bbox
+frame 3305 has no bbox
+frame 3306 has no bbox
+frame 3307 has no bbox
+frame 3308 has no bbox
+frame 3309 has no bbox
+frame 3310 has no bbox
+frame 3311 has no bbox
+frame 3312 has no bbox
+frame 3313 has no bbox
+frame 3300 obj 0 has only 4 fx
+frame 3303 has no bbox
+frame 3304 has no bbox
+frame 3305 has no bbox
+frame 3306 has no bbox
+frame 3307 has no bbox
+frame 3308 has no bbox
+frame 3309 has no bbox
+frame 3310 has no bbox
+frame 3311 has no bbox
+frame 3312 has no bbox
+frame 3313 has no bbox
+frame 3301 obj 0 has only 4 fx
+frame 3303 has no bbox
+frame 3304 has no bbox
+frame 3305 has no bbox
+frame 3306 has no bbox
+frame 3307 has no bbox
+frame 3308 has no bbox
+frame 3309 has no bbox
+frame 3310 has no bbox
+frame 3311 has no bbox
+frame 3312 has no bbox
+frame 3313 has no bbox
+frame 3302 obj 0 has only 4 fx
+
+
+cam4
+frame 9513 obj 5 has only 8 fx
+frame 9514 obj 5 has only 8 fx
+frame 9515 obj 5 has only 8 fx
+frame 9516 obj 5 has only 8 fx
+frame 9517 obj 5 has only 8 fx
+frame 9518 obj 5 has only 8 fx
+frame 9519 obj 5 has only 8 fx
+
+
+
+
+frame cnn descriptor
+cam1  abnormal 174 + normal 1,987
+cam2  abnormal 308 + normal 699
+cam3  abnormal 109 + normal 11,927
+cam4  abnormal 605 + normal 2,340
+cam5  abnormal 0 + normal 1,400
+cam6  abnormal 325 + normal 4,748
+
+abnormal: 1,521 + normal: 23,101 = 24,622
+
+
+
+tensor record
+Abnormal count 1521, Normal count 6085
+
+
+
+fine tuned.
+abnormal acc: 0.78  normal acc 0.86
+
